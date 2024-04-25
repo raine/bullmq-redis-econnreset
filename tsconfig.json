@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "declaration": true,
+    "target": "es2019",
+    "resolveJsonModule": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "noUnusedLocals": false,
+    "removeComments": false,
+    "strict": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "typeRoots": ["./node_modules/@types"],
+    "allowJs": false,
+    "noUncheckedIndexedAccess": true
+  }
+}
